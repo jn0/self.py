@@ -1,6 +1,6 @@
 [![](https://img.shields.io/pypi/pyversions/self.svg?maxAge=86400)](https://pypi.org/pypi/self/)
 [![](https://img.shields.io/pypi/v/self.svg?maxAge=86400)](https://pypi.org/pypi/self/)
-[![](https://img.shields.io/badge/libraries.io-self-green.svg)](https://libraries.io/pypi/self)
+[![](https://img.shields.io/badge/libraries.io-self-green.svg?maxAge=86400)](https://libraries.io/pypi/self)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/looking-for-a-job/self.py/badge)](https://www.codefactor.io/repository/github/looking-for-a-job/self.py)
 [![CodeClimate](https://codeclimate.com/github/looking-for-a-job/self.py/badges/gpa.svg)](https://codeclimate.com/github/looking-for-a-job/self.py)
@@ -15,11 +15,13 @@
 [![Travis](https://api.travis-ci.org/looking-for-a-job/self.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/self.py/)
 
 ### Install
+
 ```bash
-[sudo] pip install self
+$ [sudo] pip install self
 ```
 
 ### Usage
+
 ```python
 >>> from self import self
 
@@ -28,6 +30,7 @@
 ```
 
 ### Examples
+
 ```python
 >>> class CLS:
 	@self
@@ -42,4 +45,5 @@
 ```
 
 ### Sources
+
 +   [`self.self(method, self, *args, **kwargs)`](https://github.com/looking-for-a-job/self.py/blob/master/self/__init__.py)
